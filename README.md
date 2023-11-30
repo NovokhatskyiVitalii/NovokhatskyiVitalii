@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓  My name is Vitalii, a **Front End Web Developer**. I conscientious junior interface developer with a desire to learn and
+🎓  My name is Vitalii, a **Front End Developer**. I conscientious junior interface developer with a desire to learn and
 grow up in a friendly team.
 Interested in new technologies learn something new to improve my skills and become a more experienced developer. If you have any questions or would like to discuss potential cooperation, contact me.
 
