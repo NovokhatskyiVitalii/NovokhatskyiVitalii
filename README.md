@@ -2,9 +2,10 @@
 
 ## 🚀 About Me
 
-🎓  My name is Vitalii, a **Front End Developer**. I conscientious junior interface developer with a desire to learn and
-grow up in a friendly team.
-Interested in new technologies learn something new to improve my skills and become a more experienced developer. If you have any questions or would like to discuss potential cooperation, contact me.
+🎓  Hi! I'm Vitalii, a Frontend Developer with 2+ years of experience building and optimizing landing pages, marketing tools, and internal systems.
+Skilled in HTML5, CSS/SCSS, JavaScript (ES6+), React, Redux, and REST API integrations.
+I enjoy mentoring junior developers, reviewing code, and collaborating with designers and marketing teams to deliver high-quality, performant solutions.
+Always eager to learn new technologies and improve development processes. Open to discussing potential collaborations and new opportunities.
 
 ## 🛠️ Skills
 
@@ -21,7 +22,7 @@ Interested in new technologies learn something new to improve my skills and beco
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🔗 Links
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1muXznZZQasRh0hmo3mh4j7TXsRq7rB90/view?usp=drive_link)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]([https://drive.google.com/file/d/1muXznZZQasRh0hmo3mh4j7TXsRq7rB90/view?usp=drive_link](https://drive.google.com/file/d/1mq5ppzk-DdKrwnf2XY66iMnPoHEqLgVs/view?usp=sharing))
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vitalii-novokhatskyi/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/NovokhatskyiVitalii)
 
