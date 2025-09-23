@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓  Hi! I'm Vitalii, a Frontend Developer with 2+ years of commercial experience in building and maintaining responsive web applications, landing pages, and CRM integrations. Skilled in JavaScript (ES6+), React, SCSS, and deployment pipelines (CI/CD). Experienced in mentoring junior developers, conducting code reviews, and collaborating with cross-functional teams. Strong focus on performance optimization (15–20% faster load times), clean code, and delivering business-oriented solutions. Currently aiming to grow into a Middle Frontend Developer role with a focus on TypeScript, Redux Toolkit, and testing.
+🎓  Hi! I'm Vitalii, a Frontend Developer with 2+ years of commercial experience in building and maintaining responsive web applications, landing pages, and CRM integrations. Skilled in JavaScript (ES6+), React, SCSS, and deployment pipelines (CI/CD). Experienced in mentoring junior developers, conducting code reviews, and collaborating with cross-functional teams. Strong focus on performance optimization (15–20% faster load times), clean code, and delivering business-oriented solutions. Currently aiming to grow into a Middle Frontend Developer role with a focus on Next, TypeScript, Redux Toolkit, and testing.
 
 ## 🛠️ Skills
 
